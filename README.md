@@ -14,8 +14,15 @@ sir d na namin napalitan ung folder name kasi yung .venv nababago rin pala so d 
 
 *Installations
 
-ollama pull llama3.1:8b ollama create Eunwoo -f Modelfile python -m pip install fastapi uvicorn python -m pip install requests pip install httpx python-multipart
+activate the .venv
+ollama pull llama3.1:8b 
+ollama create Eunwoo -f Modelfile 
+python -m pip install fastapi uvicorn 
+python -m pip install requests 
+pip install httpx 
+python-multipart
 pip install fastapi uvicorn
+
 
 Packages and Versions:
 
