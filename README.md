@@ -10,7 +10,7 @@ RHONALYN TRIPULCA
 
 (Eunwoo) Ai Chatbot
 
-sir d na namin napalitan ung folder name kasi yung .venv nababago rin pala so d na po namin binago para walang magalaw.
+
 
 *Installations
 
